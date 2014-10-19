@@ -13,6 +13,7 @@ The Altens Cougars contained
  - Richard [@chilkathaiku][4]
  - Edwin Ho
  - Xan Bod
+ - Jen Thomson [@lilmisstee][6]
 
 ##Challenege
 
@@ -28,9 +29,15 @@ rooms are currently booked. To ease the burden of booking on the staff in the
 center we have also prototyped a booking system. The system could be used from
 the web or by the manager of the center.
 
+
+##License
+
+This project is released under a CC0 1.0 License
+
 [1]:	http://twitter.com/adventureloop
 [2]:	http://twitter.com/williamisted
 [3]:	http://twitter.com/pressam
 [4]:	http://twitter.com/chillcathiku
 [5]:	http://altenscc.btck.co.uk/
+[6]:	http://twitter.com/lilmisstee
 
