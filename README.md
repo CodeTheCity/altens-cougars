@@ -15,7 +15,7 @@ The Altens Cougars contained
  - Xan Bod
  - Jen Thomson [@lilmisstee][6]
 
-##Challenege
+##Challenge
 
 Brain sits on the board of the [Altens Community Center ][5] in Aberdeen. His
 community center has lots of rooms that are available for the public to use. A
