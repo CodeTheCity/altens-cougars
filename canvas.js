@@ -86,6 +86,8 @@ function setupFloors(rooms)
 
 function drawFloor(floor)
 {
+	floor.ctx.clearRect(0,0,floor.width,floor.height);
+
 	floor.ctx.save()
 
 	var scale = calculateScale(floor);
