@@ -8,7 +8,7 @@ The Altens Cougars contained
 
  - Brian Allan
  - Tom Jones [@adventureloop][1]
- - William Isted [@williamisted][2]
+ - William Isted [@WilliamIsted][2]
  - Josh Thompson [@pressdm][3] 	
  - Richard [@chilkathaiku][4]
  - Edwin Ho
