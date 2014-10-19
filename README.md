@@ -22,6 +22,8 @@ community center has lots of rooms that are available for the public to use. A
 lack of volunteers makes it difficult to make full use of the rooms in the
 center.
 
+[Read extended challenges here][7]
+
 ##Result
 
 We built a prototype system that will allow at a glance information for which
@@ -34,10 +36,10 @@ the web or by the manager of the center.
 
 This project is released under a CC0 1.0 License
 
-[1]:	http://twitter.com/adventureloop
-[2]:	http://twitter.com/williamisted
-[3]:	http://twitter.com/pressam
-[4]:	http://twitter.com/chillcathiku
-[5]:	http://altenscc.btck.co.uk/
-[6]:	http://twitter.com/lilmisstee
-
+[1]:	https://twitter.com/adventureloop
+[2]:	https://twitter.com/WilliamIsted
+[3]:	https://twitter.com/pressam
+[4]:	https://twitter.com/chillcathiku
+[5]:	https://altenscc.btck.co.uk/
+[6]:	https://twitter.com/lilmisstee
+[7]: challenge.md
