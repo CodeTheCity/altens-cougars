@@ -1,0 +1,21 @@
+#SetEnvIf Origin "^http(s)?://(.+\.)?(twitplus\.co|direct\.twitplus\.co)$" origin_is=$0 
+#Header always set Access-Control-Allow-Origin %{origin_is}e env=origin_is
+#Header always set Access-Control-Allow-Credentials true
+
+SetEnv nokeepalive
+SetEnv no-gzip dont-vary
+
+<IfModule mod_rewrite.c>
+
+RewriteEngine On
+#RewriteCond %{HTTPS} !=on
+#RewriteRule ^.*$ https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
+
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /.*index\.php
+RewriteRule ^index.php/?(.*)$ $1 [R=301,L]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ index.php/$1 [L]
+
+</IfModule>
