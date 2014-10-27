@@ -17,7 +17,7 @@ The Altens Cougars contained
 
 ##Challenge
 
-Brain sits on the board of the [Altens Community Center ][5] in Aberdeen. His
+Brian sits on the board of the [Altens Community Center ][5] in Aberdeen. His
 community center has lots of rooms that are available for the public to use. A
 lack of volunteers makes it difficult to make full use of the rooms in the
 center.
